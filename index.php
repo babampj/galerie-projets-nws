@@ -204,7 +204,7 @@ function couleurSpecialite(string $s): string
             <li><a href="https://normandiewebschool.fr" rel="noopener">normandiewebschool.fr</a></li>
             <li><a href="index.php">Galerie</a></li>
         </ul>
-        <p class="pied__note">Version pédagogique — projets fictifs à titre de démonstration.</p>
+        <p class="pied__note">Version pédagogique — projets fictifs à titre démonstratif.</p>
     </div>
 </footer>
 
