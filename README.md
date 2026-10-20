@@ -156,7 +156,7 @@ galérie des projets/
 
 ## Auteur
 
-**babampj** — [github.com/babampj](https://github.com/babampj)
+**Edgar IRITIE** — [github.com/babampj](https://github.com/babampj)
 
 Projet réalisé dans le cadre de la formation développeur web de la
 [Normandie Web School](https://normandiewebschool.fr). Tous les projets présentés sont
