@@ -1,10 +1,10 @@
 # Galerie des projets — version pédagogique
 
-Version **simplifiée** du projet FAP *Galerie des projets étudiants NWS* : le même rendu
-visuel que le site complet, mais **sans base de données ni espace d'administration** —
-les projets sont directement écrits dans un fichier PHP. Idéal pour apprendre à
-découper une page en plusieurs fichiers, afficher une liste, filtrer et créer une
-page de détail.
+une plateforme pour centraliser,
+rechercher et valoriser les réalisations des étudiants de la Normandie Web School.
+
+> « Concevoir un outil qui pourrait devenir une véritable vitrine des réalisations
+> des étudiants de la Normandie Web School. »
 
 ![Galerie des projets](docs/galerie.png)
 
